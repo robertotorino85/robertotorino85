@@ -2,7 +2,11 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 🔭 Atualmente estou trabalhando na empresa Unimed Litoral como Analista de Sistemas e Negócios Pleno  
+🎓 Graduação em Sistemas para Internet e Pós-Gradução em Gestão de Projetos
 
+## Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
+          
 <!--
 **robertotorino85/robertotorino85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
